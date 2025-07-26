@@ -14,7 +14,7 @@ This platform blends the minimalism of *Microsoft Teams* with the modern, vibran
 
 ## 🔗 Live Demo
 
-👉 [View WorkLink Online](https://your-deployment-url.com)  
+👉 [View WorkLink Online]https://lighthearted-kelpie-7ce99c.netlify.app/
 📽️ [Demo Video](https://your-demo-video.com)
 
 ---
